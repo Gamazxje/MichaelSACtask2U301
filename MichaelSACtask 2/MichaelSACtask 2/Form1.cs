@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-//the order of the columns inserted in the CSV file is different in the practice SAC
+//note:the order of the columns inserted in the CSV file is different in the practice SAC
 namespace MichaelSACtask_2
 {
     public partial class Form1 : Form
@@ -45,13 +45,13 @@ namespace MichaelSACtask_2
                         profit = purchasedPrice * -1;
                     }
                     total += profit;
-
+                   //display the profit
                     fields.Add(profit.ToString());
 
                     dgvSales.Rows.Add(fields.ToArray());
                 }
                 foreach (string line in lines)
-
+                    //display the total profit
                 dgvSales.Rows.Add();
                 int rowCount = dgvSales.Rows.Count;
                 dgvSales.Rows[rowCount - 1].Cells[5].Value = "Total";

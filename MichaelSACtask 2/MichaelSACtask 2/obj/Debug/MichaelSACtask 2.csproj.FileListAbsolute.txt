@@ -1,0 +1,11 @@
+C:\Users\PhucDatBich\source\repos\MichaelSACtask 2\MichaelSACtask 2\bin\Debug\MichaelSACtask 2.exe.config
+C:\Users\PhucDatBich\source\repos\MichaelSACtask 2\MichaelSACtask 2\bin\Debug\MichaelSACtask 2.exe
+C:\Users\PhucDatBich\source\repos\MichaelSACtask 2\MichaelSACtask 2\bin\Debug\MichaelSACtask 2.pdb
+C:\Users\PhucDatBich\source\repos\MichaelSACtask 2\MichaelSACtask 2\obj\Debug\MichaelSACtask 2.csproj.AssemblyReference.cache
+C:\Users\PhucDatBich\source\repos\MichaelSACtask 2\MichaelSACtask 2\obj\Debug\MichaelSACtask 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PhucDatBich\source\repos\MichaelSACtask 2\MichaelSACtask 2\obj\Debug\MichaelSACtask_2.Form1.resources
+C:\Users\PhucDatBich\source\repos\MichaelSACtask 2\MichaelSACtask 2\obj\Debug\MichaelSACtask_2.Properties.Resources.resources
+C:\Users\PhucDatBich\source\repos\MichaelSACtask 2\MichaelSACtask 2\obj\Debug\MichaelSACtask 2.csproj.GenerateResource.cache
+C:\Users\PhucDatBich\source\repos\MichaelSACtask 2\MichaelSACtask 2\obj\Debug\MichaelSACtask 2.csproj.CoreCompileInputs.cache
+C:\Users\PhucDatBich\source\repos\MichaelSACtask 2\MichaelSACtask 2\obj\Debug\MichaelSACtask 2.exe
+C:\Users\PhucDatBich\source\repos\MichaelSACtask 2\MichaelSACtask 2\obj\Debug\MichaelSACtask 2.pdb
